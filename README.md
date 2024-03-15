@@ -1,4 +1,4 @@
-***Requirements
+**Requirements
 Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
 Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
 Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
