@@ -1,3 +1,12 @@
+## Features 
+ * Implements advance neural network method.
+ * A framework based application for deployment purpose.
+ * High scalability.
+ * Less time complexity.
+ * A specific scope of Chatbot response model, using json data format. 
+
+
+
 ## Requirements
 * Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
 * Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
